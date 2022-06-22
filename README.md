@@ -21,7 +21,7 @@ This will start the React application and open up `localhost:3000` in your web b
 
 > **Note:** The client will show an `ERROR: Failed to fetch` message unless you have the [counterpart GraphQL server](https://github.com/apollographql/odyssey-lift-off-part5-server) running locally on `localhost:4000`.
 
-To check the **final** stage of the client, with all of the steps and code completed, checkout the `final` branch by running the following command in your terminal:
+To check the **final** stage of the client, with all of the steps and code completed, check out the `final` branch by running the following command in your terminal:
 
 ```bash
 git checkout final
