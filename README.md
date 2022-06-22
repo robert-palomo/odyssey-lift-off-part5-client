@@ -27,6 +27,6 @@ To check the **final** stage of the client, with all of the steps and code compl
 git checkout final
 ```
 
-## Getting Help
+## Getting help
 
 For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
